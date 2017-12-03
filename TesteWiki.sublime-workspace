@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"get_tme",
+				"get_template_part\tWP Function"
+			],
+			[
+				"have",
+				"have_posts\tWP Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "database/migrations/2017_12_02_193909_create_clientes_table.php",
+			"settings":
+			{
+				"buffer_size": 835,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "rei",
+		"selected_items":
+		[
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sftp b",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"histo",
+				"Local History: Open"
+			],
+			[
+				"sftp d",
+				"SFTP: Download File"
+			],
+			[
+				"save now",
+				"Local History: Save Now"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"sftp ",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"syncing",
+				"Package Syncing: Pull Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 572.0
+	},
+	"console":
+	{
+		"height": 179.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/W/web/www/teste-wiki",
+		"/W/web/www/teste-wiki/database",
+		"/W/web/www/teste-wiki/database/migrations"
+	],
+	"file_history":
+	[
+		"/W/web/www/teste-wiki/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/W/web/www/teste-wiki/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/W/web/www/teste-wiki/package.json",
+		"/W/web/www/teste-wiki/composer.lock",
+		"/W/web/www/teste-wiki/config/database.php",
+		"/W/web/www/teste-wiki/database/migrations/2017_12_02_193909_create_clientes_table.php",
+		"/W/web/www/teste-wiki/app/Providers/AppServiceProvider.php",
+		"/W/web/bin/mysql/mysql5.7.19/my.ini",
+		"/W/web/www/teste-wiki/.env",
+		"/W/web/www/teste/cliente/config/app.php",
+		"/W/web/www/teste/cliente/app/Cliente.php",
+		"/W/web/www/teste/cliente/app/Http/Controllers/ClienteController.php",
+		"/W/web/www/teste/cliente/resources/views/cliente/index.blade.php",
+		"/W/web/www/teste/cliente/app/Providers/AppServiceProvider.php",
+		"/W/web/www/teste/cliente/config/database.php",
+		"/W/web/www/wiki-teste/resources/views/cliente-listar.blade.php",
+		"/W/web/www/teste/cliente/.env",
+		"/W/web/www/teste/cliente/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/W/web/www/wiki-teste/resources/views/cliente.blade.php",
+		"/W/web/www/wiki-teste/routes/web.php",
+		"/W/web/www/wiki-teste/app/Http/Controllers/ClientesController.php",
+		"/W/web/www/teste/cliente/config/auth.php",
+		"/W/web/www/teste/cliente/app/User.php",
+		"/W/web/www/teste/cliente/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/W/web/www/teste/cliente/database/migrations/2017_12_02_175953_create_clientes_table.php",
+		"/W/web/www/wiki-teste/app/Http/Controllers/ApiAtualizarClienteController.php",
+		"/W/web/www/wiki-teste/app/Http/Controllers/AdminCmsUsersController.php",
+		"/W/web/www/wiki-teste/app/Http/Controllers/AdminClienteController.php",
+		"/W/web/www/wiki-teste/app/Http/Controllers/Clientes.php",
+		"/W/web/www/wiki-teste/resources/views/cliente-listar.php",
+		"/W/web/www/wiki-teste/app/User.php",
+		"/W/web/www/wiki-teste/app/Http/Kernel.php",
+		"/W/web/www/wiki-teste/app/Http/Controllers/Controller.php",
+		"/W/web/www/wiki-teste/app/Http/Controllers/CBHook.php",
+		"/W/web/www/wiki-teste/config/app.php",
+		"/W/web/www/wiki-teste/resources/views/welcome.blade.php",
+		"/W/web/www/wiki-teste/.env",
+		"/W/web/www/tema-ofertas/wp-content/themes/oferta-interset/page-vendas.php",
+		"/W/web/www/wiki-teste/public/index.php",
+		"/W/web/www/tema-ofertas/wp-content/themes/oferta-interset/style.css",
+		"/W/web/www/tema-ofertas/wp-content/themes/oferta-interset/sidebar.php",
+		"/W/web/www/tema-ofertas/wp-content/themes/oferta-interset/page-presell.php",
+		"/W/web/www/tema-ofertas/wp-config.php",
+		"/W/web/www/tema-ofertas/tema-ofertas.sublime-project",
+		"/W/web/www/tema-ofertas/sftp-config.json",
+		"/W/web/www/tema-ofertas/wp-content/themes/oferta-interset/header.php",
+		"/W/web/www/grupoqg.com/page-institucional.php",
+		"/W/web/www/grupoqg.com/sftp-config.json",
+		"/W/web/www/grupoqg.com/mercado-part.php",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 3/.sublime/Local History/W/web/www/grupoqg.com/page-servicos-20171119013550.php",
+		"/W/web/www/grupoqg.com/page-servicos.php",
+		"/C/Users/Rodrigo/AppData/Roaming/Sublime Text 3/.sublime/Local History/W/web/www/grupoqg.com/page-servicos-20171119013617.php",
+		"/W/web/www/grupoqg.com/front-page.php",
+		"/W/web/www/grupoqg.com/page-contato.php",
+		"/W/web/www/grupoqg.com/page-bupaqe.php",
+		"/W/web/www/grupoqg.com/footer.php",
+		"/W/web/www/grupoqg.com/grupo-qg.sublime-project",
+		"/C/Users/Rodrigo/Downloads/migrar.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"innodb_large_prefix",
+			"max",
+			"key",
+			"Collective",
+			"ut8",
+			"schema",
+			"service pro",
+			"index",
+			"custome",
+			"bloco3",
+			"bloco3'",
+			"bloco3",
+			".logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "database/migrations/2017_12_02_193909_create_clientes_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 145.0
+	},
+	"pinned_build_system": "",
+	"project": "TesteWiki.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"apps",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"institu",
+				"page-institucional.php"
+			],
+			[
+				"servico",
+				"page-servicos.php"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"contato",
+				"page-contato.php"
+			],
+			[
+				"insti",
+				"page-institucional.php"
+			],
+			[
+				"bup",
+				"page-bupaqe.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
